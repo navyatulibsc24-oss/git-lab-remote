@@ -1,1 +1,1 @@
-THIS IS MY FIRST GIT REPOSITORY
+Updated from GitHub remote repository
